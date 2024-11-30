@@ -2,7 +2,7 @@
     "name": "SharedLists",
     "short_name": "SharedLists",
     "theme_color": "#1976d2",
-    "background_color": "#fafafa",
+    "background_color": "#1a1b1f",
     "display": "standalone",
     "scope": "./",
     "start_url": "./",
